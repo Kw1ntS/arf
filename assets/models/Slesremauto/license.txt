@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cracked engine
+* source:	https://sketchfab.com/3d-models/cracked-engine-84ccb831da3e43cc99d62a112d5897cb
+* author:	matousekfoto (https://sketchfab.com/matousekfoto)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cracked engine" (https://sketchfab.com/3d-models/cracked-engine-84ccb831da3e43cc99d62a112d5897cb) by matousekfoto (https://sketchfab.com/matousekfoto) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

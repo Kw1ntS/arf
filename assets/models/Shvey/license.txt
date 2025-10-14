@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tailors scissors
+* source:	https://sketchfab.com/3d-models/tailors-scissors-324440a26dcf4f8ea0f5a1273d9c804e
+* author:	孤容 (https://sketchfab.com/1715035569)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tailors scissors" (https://sketchfab.com/3d-models/tailors-scissors-324440a26dcf4f8ea0f5a1273d9c804e) by 孤容 (https://sketchfab.com/1715035569) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

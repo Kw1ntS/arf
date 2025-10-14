@@ -1,0 +1,11 @@
+Model Information:
+* title:	School
+* source:	https://sketchfab.com/3d-models/school-fe0232d898cc4b74b4ccf683d80db580
+* author:	Space Explorers Academy (https://sketchfab.com/Spaceexplorersacademy)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "School" (https://sketchfab.com/3d-models/school-fe0232d898cc4b74b4ccf683d80db580) by Space Explorers Academy (https://sketchfab.com/Spaceexplorersacademy) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

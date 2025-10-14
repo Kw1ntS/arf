@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nursery art table scene
+* source:	https://sketchfab.com/3d-models/nursery-art-table-scene-5a1d6ccb2d2a4b5a85be4ce23495df8e
+* author:	Fred Drabble (https://sketchfab.com/FredDrabble)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nursery art table scene" (https://sketchfab.com/3d-models/nursery-art-table-scene-5a1d6ccb2d2a4b5a85be4ce23495df8e) by Fred Drabble (https://sketchfab.com/FredDrabble) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

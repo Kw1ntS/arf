@@ -1,0 +1,11 @@
+Model Information:
+* title:	C Doc
+* source:	https://sketchfab.com/3d-models/c-doc-e796f3a379524e028c674f579949f26c
+* author:	edouard77 (https://sketchfab.com/edouard77)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "C Doc" (https://sketchfab.com/3d-models/c-doc-e796f3a379524e028c674f579949f26c) by edouard77 (https://sketchfab.com/edouard77) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
